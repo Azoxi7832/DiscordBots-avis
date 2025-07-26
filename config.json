@@ -1,5 +1,6 @@
 {
-  "lapis_api_key": "TA_CLE_LAPIS",
-  "place_id": "TON_PLACE_ID",
-  "webhook_url": "TON_WEBHOOK_URL_DISCORD"
+  "token": "TON_TOKEN_DISCORD",
+  "channel_id": 123456789012345678,
+  "google_maps_url": "https://www.google.com/maps/place/TON_ENTREPRISE",
+  "check_interval": 30
 }
